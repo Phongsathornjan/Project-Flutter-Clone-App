@@ -1,0 +1,6 @@
+แหล่งที่มา https://github.com/maxonflutter/AirBnB_Clone_with_Flutter_Dart_Frog?tab=readme-ov-file
+สิ่งที่เพิ่ม
+ - เพิ่มข้อมูลที่พัก
+ - แสดงผลที่พักตามประเภทที่พัก ใน class property_type_list กับ propertyType ใน class Property ใน property.dart
+ - หน้าแสดงรายละเอียดที่พัก
+
